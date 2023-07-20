@@ -1,1 +1,1 @@
-let = "pera"
+let pera = "pera"
